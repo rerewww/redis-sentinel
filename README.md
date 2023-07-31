@@ -1,2 +1,2 @@
 # redis-cluster
-레디스 클러스터 설정
+[redis-sentinel document](https://redis.io/docs/management/sentinel/)
